@@ -1,0 +1,12 @@
+C:\Users\Public\Documents\Visual Studio 2017\currenttimestamp-master\currenttimestamp\bin\Debug\currenttimestamp.exe.config
+C:\Users\Public\Documents\Visual Studio 2017\currenttimestamp-master\currenttimestamp\bin\Debug\currenttimestamp.exe
+C:\Users\Public\Documents\Visual Studio 2017\currenttimestamp-master\currenttimestamp\bin\Debug\currenttimestamp.pdb
+C:\Users\Public\Documents\Visual Studio 2017\currenttimestamp-master\currenttimestamp\bin\Debug\currenttimestamp.xml
+C:\Users\Public\Documents\Visual Studio 2017\currenttimestamp-master\currenttimestamp\obj\Debug\currenttimestamp.vbprojAssemblyReference.cache
+C:\Users\Public\Documents\Visual Studio 2017\currenttimestamp-master\currenttimestamp\obj\Debug\currenttimestamp.Form1.resources
+C:\Users\Public\Documents\Visual Studio 2017\currenttimestamp-master\currenttimestamp\obj\Debug\currenttimestamp.Resources.resources
+C:\Users\Public\Documents\Visual Studio 2017\currenttimestamp-master\currenttimestamp\obj\Debug\currenttimestamp.vbproj.GenerateResource.cache
+C:\Users\Public\Documents\Visual Studio 2017\currenttimestamp-master\currenttimestamp\obj\Debug\currenttimestamp.vbproj.CoreCompileInputs.cache
+C:\Users\Public\Documents\Visual Studio 2017\currenttimestamp-master\currenttimestamp\obj\Debug\currenttimestamp.exe
+C:\Users\Public\Documents\Visual Studio 2017\currenttimestamp-master\currenttimestamp\obj\Debug\currenttimestamp.xml
+C:\Users\Public\Documents\Visual Studio 2017\currenttimestamp-master\currenttimestamp\obj\Debug\currenttimestamp.pdb

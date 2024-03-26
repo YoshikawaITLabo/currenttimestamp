@@ -25,4 +25,11 @@
         Clipboard.SetText(tmst)
 
     End Sub
+
+    Private Sub Button3_Click(sender As Object, e As EventArgs) Handles Button3.Click
+        MessageBox.Show("ボタン３が押下されました",
+                "確認",
+                MessageBoxButtons.OK,
+                MessageBoxIcon.None)
+    End Sub
 End Class
